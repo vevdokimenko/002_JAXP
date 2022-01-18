@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<factory>
+    <candy>
+        <id>1</id>
+        <name>Snickers</name>
+        <weight>150</weight>
+    </candy>
+    <candy>
+        <id>2</id>
+        <name>Bounty</name>
+        <weight>140</weight>
+    </candy>
+    <candy>
+        <id>3</id>
+        <name>Nuts</name>
+        <weight>160</weight>
+    </candy>
+</factory>
